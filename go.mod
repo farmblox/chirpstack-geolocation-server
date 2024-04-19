@@ -20,10 +20,9 @@ require (
 	github.com/spf13/cobra v0.0.4
 	github.com/spf13/viper v1.3.2
 	github.com/stretchr/testify v1.3.0
-	golang.org/x/net v0.0.0-20190628185345-da137c7871d7 // indirect
+	golang.org/x/net v0.23.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20190226205417-e64efc72b421 // indirect
-	golang.org/x/text v0.3.2 // indirect
-	golang.org/x/tools v0.0.0-20190708203411-c8855242db9c
+	golang.org/x/tools v0.6.0
 	google.golang.org/genproto v0.0.0-20190404172233-64821d5d2107 // indirect
 	google.golang.org/grpc v1.24.0
 )
